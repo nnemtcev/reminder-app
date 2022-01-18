@@ -1,3 +1,11 @@
-## Idea
+# Birthday Reminder App
 
-[https://uidesigndaily.com/](https://uidesigndaily.com/posts/sketch-birthdays-list-card-widget-day-1042)
+This is a React web app that reminds the user when it's someone's birthday.
+
+## Installation
+
+Use the package manager npm to install this app and its dependencies.
+
+```bash
+npm install
+```
